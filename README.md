@@ -1,2 +1,2 @@
-# Data-Structure-Project - Music Playlist
-My Data Structure Project Assignment in III Semester
+# ArtificialIntelligence Project - Exam Scheduler
+My AI Final Project Assignment in fifth Semester in college
